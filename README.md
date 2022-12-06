@@ -1,1 +1,1 @@
-https://FoJke.github.io/rsschool-cv/
+https://FoJkee.github.io/rsschool-cv/
