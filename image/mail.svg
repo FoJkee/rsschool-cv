@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+
+<defs>
+</defs>
+<g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)" >
+	<path d="M 76.532 77.647 H 13.467 c -7.036 0 -12.74 -5.704 -12.74 -12.74 V 25.093 c 0 -7.036 5.704 -12.74 12.74 -12.74 h 63.065 c 7.036 0 12.74 5.704 12.74 12.74 v 39.814 C 89.273 71.943 83.569 77.647 76.532 77.647 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,181,63); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+	<path d="M 76.533 78.375 H 13.467 C 6.041 78.375 0 72.332 0 64.906 V 25.093 c 0 -7.426 6.041 -13.468 13.467 -13.468 h 63.065 C 83.959 11.625 90 17.667 90 25.093 v 39.813 C 90 72.332 83.959 78.375 76.533 78.375 z M 13.467 13.08 c -6.624 0 -12.014 5.389 -12.014 12.013 v 39.813 c 0 6.625 5.39 12.014 12.014 12.014 h 63.065 c 6.624 0 12.013 -5.389 12.013 -12.014 V 25.093 c 0 -6.624 -5.389 -12.013 -12.013 -12.013 H 13.467 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(29,29,27); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+	<polygon points="45,57.33 11.03,24.23 12.05,23.19 45,55.3 77.95,23.19 78.97,24.23 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(29,29,27); fill-rule: nonzero; opacity: 1;" transform="  matrix(1 0 0 1 0 0) "/>
+	<rect x="66.48" y="41.29" rx="0" ry="0" width="1.45" height="30.68" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(29,29,27); fill-rule: nonzero; opacity: 1;" transform=" matrix(0.6881 -0.7256 0.7256 0.6881 -20.1328 66.4297) "/>
+	<rect x="7.66" y="55.91" rx="0" ry="0" width="30.68" height="1.45" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(29,29,27); fill-rule: nonzero; opacity: 1;" transform=" matrix(0.7257 -0.688 0.688 0.7257 -32.6563 31.3577) "/>
+</g>
+</svg>
