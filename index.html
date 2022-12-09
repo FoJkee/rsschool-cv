@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Blinker:wght@200;400;700;800;900&display=swap" rel="stylesheet">
+  <title>rsschool cv</title>
+</head>
+
+<body>
+  <div class="container">
+    <header>
+      <nav>
+        <ul class="nav-list">
+          <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+          <li class="nav-item"><a href="#about-me" class="nav-link">About me</a></li>
+          <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+          <li class="nav-item"><a href="#code" class="nav-link">Code Example</a></li>
+          <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+          <li class="nav-item"><a href="#language" class="nav-link">Language</a></li>
+          <li class="nav-item"><a href="#course" class="nav-link">Course</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div class="tables">
+      <div class="left-table">
+        <div class="title">
+          <img src="/image/photo.jpg" alt="my-photo" width="350" height="350">
+        </div>
+        <main>
+          <section class="contacts" id="contacts">
+            <div class="header-name">
+              <h3>Contacts</h3>
+            </div>
+            <ul>
+              <li>
+                <p><img class="contacts-img" src="/image/mail.svg" alt="Email icon" height="30"
+                    width="30">romanovsky0815@gmail.com
+                </p>
+              </li>
+              <li>
+                <p><img class="contacts-img" src="/image/telegram.svg" alt="Telegram icon" height="30" width="30">
+                  @dr_fenkaroll</p>
+              </li>
+              <li>
+                <a href="https://github.com/FoJkee" target="_blank">
+                  <p><img class="contacts-img" src="/image/github-logo-6532.svg" alt="Git icon" height="30"
+                      width="30">FoJkee
+                  </p>
+                </a>
+              </li>
+              <li>
+                <p><img class="contacts-img" src="/image/pin-location.svg" alt="Navigation icon" height="30"
+                    width="30">Minsk, Belarus
+                </p>
+              </li>
+            </ul>
+          </section>
+          <section class="section" id="skills">
+            <div class="header-name">
+              <h3>Skills</h3>
+            </div>
+            <ul>
+              <li>
+                <p>HTML</p>
+              </li>
+              <li>
+                <p>CSS</p>
+              </li>
+              <li>
+                <p>JavaScript</p>
+              </li>
+              <li>
+                <p>Git/GitHub</p>
+              </li>
+            </ul>
+          </section>
+          <section class="section" id="language">
+            <div class="header-name">
+              <h3>Language</h3>
+            </div>
+            <ul>
+              <li>
+                <p>Russian (native)</p>
+              </li>
+              <li>
+                <p>English (A2)</p>
+              </li>
+            </ul>
+          </section>
+        </main>
+      </div>
+      <aside class="right-table">
+        <h1>Viktor Romanovsky</h1>
+        <h2>Junior Front Developer</h2>
+        <section id="about-me">
+          <div class="two-section">
+            <h3>About me</h3>
+          </div>
+          <p>I am 27 years old and I work as a construction foreman. My work sooner or later will not teach
+            anything, so I decided to study programming. This area is constantly evolving, which makes it
+            possible to learn something new.</p>
+        </section>
+        <section id="education">
+          <div class="two-section">
+            <h3>Education</h3>
+          </div>
+          <p>Belarusian-Russian University</p>
+          <p>Faculty: industrial and civil construction</p>
+          <p>Years: 2012 - 2017</p>
+        </section>
+        <section id="course">
+          <div class="two-section">
+            <h3>Course</h3>
+          </div>
+          <ul>
+            <li>
+              FreeCodeCamp
+            </li>
+            <li>
+              CodeWars
+            </li>
+            <li>
+              LearnJavaScript
+            </li>
+          </ul>
+        </section>
+        <section id="code">
+          <div class="two-section">
+            <h3>Code Example</h3>
+          </div>
+          <p>As a part of this Kata, you need to create a function that when provided with a triplet, returns the
+            index
+            of the numerical element that lies between the other two elements. The input to the function will be an
+            array of three distinct numbers (Haskell: a tuple).</p>
+          <code class="course">
+                function gimme(triplet) {
+                    let arr = [];
+                    for (let i of triplet) {
+                        arr.push(i);
+                    }
+                    arr.sort((a, b) => a - b);
+                    return triplet.indexOf(arr[1]);
+                }
+                </code>
+        </section>
+      </aside>
+    </div>
+    <footer>
+      <a class="github" href="https://github.com/FoJkee" target="_blank">
+        <img class="github-icon" src="/image/GitHub-Logo.wine.svg" alt="github icon" width="50" height="50">
+        <p>Click my GitHub</p>
+      </a>
+      <p>&#169; 2022</p>
+      <a href="https://rs.school/" target="_blank"><img src="/image/logo_rs_text.svg" alt="Icon RSschool" width="100"
+          height="60"></a>
+    </footer>
+  </div>
+</body>
+
+</html>
